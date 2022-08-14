@@ -36,8 +36,6 @@ object **JEVE MOZER** {
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?jevemozer=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![card](https://github-readme-stats.vercel.app/api?username=jevemozer&theme=tokyonight&show_icons=true)](https://github.com/jevemozer/github-readme-stats)
 
 [website]: https://codedev.ga/
