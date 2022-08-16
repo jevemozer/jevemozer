@@ -32,11 +32,11 @@ object **JEVE MOZER** {
 <img height="30" src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343">
 <img height="30" scr="https://camo.githubusercontent.com/c6fa8dfb0f627d09cffada11fd63234ce7a6b40e101322b624c87003d964f151/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5472656c6c6f2d3333333333333f7374796c653d666c6174266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d303037414343">
 
-## **GitHub Statistics**
+<!-- ## **GitHub Statistics**
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![card](https://github-readme-stats.vercel.app/api?username=jevemozer&theme=tokyonight&show_icons=true)](https://github.com/jevemozer/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=jevemozer&theme=tokyonight&show_icons=true)](https://github.com/jevemozer/github-readme-stats) -->
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
