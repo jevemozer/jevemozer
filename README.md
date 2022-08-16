@@ -43,8 +43,6 @@ object **JEVE MOZER** {
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 
-<br>
-
 ## 📫 **How to reach me:**
 
 🏡 [website][website] **|**
