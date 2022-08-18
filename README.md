@@ -34,7 +34,7 @@ object **JEVE MOZER** {
 
 ## **GitHub Statistics**
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8)]()
 
