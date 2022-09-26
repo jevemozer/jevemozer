@@ -16,11 +16,11 @@ object **JEVE MOZER** {
 
 ## **👨🏻‍💻 About Me**
 
-💡 I'm self-taught looking for a career transition.</p>
-💻 I'm currently studying and following the roadmap to become a web developer.</p>
-🎓 I'm taking the <a href="https://www.origamid.com/curso/">Origamid</a> course.</p>
-🌱 My long term plan is to specialize in learning more about Artificial Intelligence, Metaverse and Computer Vision.</p>
-✍️ In my spare time, I do weight training, run, and pursue writing and reading as my hobbies.</p>
+💡 Sou autodidata em busca de transição de carreira.</p>
+💻 Atualmente seguindo o roadmap para me tornar um desenvolvedor WEB</p>
+🎓 Estou estudando pela <a href="https://www.origamid.com/curso/">Origamid</a> cursos.</p>
+🌱 Dentre as áreas que mais me interessam, Inteligência Artificial e Metaverso são as que se destacam.</p>
+✍️ Como hobbies, pratico musculação.</p>
 
 ## **🛠 Tech Stack:**
 
@@ -38,10 +38,10 @@ object **JEVE MOZER** {
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevemozer&show_icons=true&theme=tokyonight)
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
+[website]: https://mozerdev.com
+[twitter]: https://twitter.com/MozerDev
 [instagram]: https://www.instagram.com/devmozer/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/jevemozer/
 
 ## 📫 **How to reach me:**
 
