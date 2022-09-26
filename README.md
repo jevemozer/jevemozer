@@ -49,3 +49,5 @@ object **JEVE MOZER** {
 🐦 [twitter][twitter] **|**
 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
+
+![Snake animation](https://github.com/seu-usuário-aqui/jevemozer/blob/output/github-contribution-grid-snake.svg)
