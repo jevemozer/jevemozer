@@ -41,11 +41,7 @@ object **JEVE MOZER** {
 [website]: https://mozerdev.com
 [twitter]: https://twitter.com/MozerDev
 [instagram]: https://www.instagram.com/devmozer/
-<<<<<<< HEAD
 [linkedin]: https://www.linkedin.com/in/jeversonmozer/
-=======
-[linkedin]: https://www.linkedin.com/in/jeversonmozer/
->>>>>>> 38e09e391b9bffad76bf8e75ace03ee95e8f8008
 
 ## 📫 **How to reach me:**
 
