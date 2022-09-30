@@ -42,15 +42,13 @@ object **JEVE MOZER** {
 
 ## **GitHub Statistics**
 
-<div>
-  <div style="display: inline_block">
+<div style="display: inline_block">
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight"/>
-  </div>
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=jevemozer&show_icons=true&theme=tokyonight"/>
+ 
 </div>
-
-[![jevemozer](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevemozer&show_icons=true&theme=tokyonight)
 
 [website]: https://mozerdev.com
 [twitter]: https://twitter.com/MozerDev
