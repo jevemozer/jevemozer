@@ -44,7 +44,7 @@ object **JEVE MOZER** {
 
 <div>
   <div style="display: inline_block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight"/>
   </div>
 </div>
 
