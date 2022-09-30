@@ -43,10 +43,9 @@ object **JEVE MOZER** {
 ## **GitHub Statistics**
 
 <div>
-  <a href="https://github.com/jevemozer">
   <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)"/>
-    </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)"/>
+  </div>
 </div>
 
 [![jevemozer](https://github-readme-stats.vercel.app/api/top-langs/?username=jevemozer&langs_count=8&layout=compact=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
