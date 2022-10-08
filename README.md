@@ -18,9 +18,9 @@ object **JEVE MOZER** {
 
 💡 Sou autodidata em busca de transição de carreira.</p>
 💻 Atualmente seguindo o roadmap para me tornar um desenvolvedor WEB</p>
-🎓 Estou estudando pela <a href="https://www.origamid.com/curso/">Origamid</a> cursos.</p>
-🌱 Dentre as áreas que mais me interessam, Inteligência Artificial e Metaverso são as que se destacam.</p>
-✍️ Como hobbies, pratico musculação.</p>
+🎓 Cursando Análise e desenvolvimento de Sistemas.
+🌱 Dentre as áreas que mais me interessam, Engenharia de Software e Business Intelligence são as que se destacam.</p>
+✍️ Como hobbies, pratico musculação e gosto de rodar com minha moto.</p>
 
 ## **🛠 Tech Stack:**
 
