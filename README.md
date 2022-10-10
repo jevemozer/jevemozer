@@ -19,7 +19,7 @@ object **JEVE MOZER** {
 💡 Sou autodidata em busca de transição de carreira.</p>
 💻 Atualmente seguindo o roadmap para me tornar um desenvolvedor WEB</p>
 🎓 Cursando Análise e desenvolvimento de Sistemas.</p>
-🌱 Dentre as áreas que mais me interessam, Engenharia de Software e Desenvolvedor Mobile são as que se destacam.</p>
+🌱 Dentre as áreas que mais me interessam, Engenharia de Software e Desenvolvedor WEB são as que se destacam.</p>
 ✍️ Como hobbies, pratico musculação e gosto de rodar com minha moto.</p>
 
 ## **🛠 Tech Stack:**
