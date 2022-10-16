@@ -5,13 +5,27 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **JEVE MOZER** {
- val name = "JEVERSON MOZER SILVEIRA"
- val acknowledgements = "WEB DEVELOPER"
-
- val primarySkillset = "UNDER CONSTRUCTION"
- val languages = "UNDER CONSTRUCTION"
+<script>
+export default {
+  data() {
+    return {
+      greeting: 'Hello World!'
+    }
+  }
 }
+</script>
+
+<template>
+  <p class="greeting">{{ greeting }}</p>
+</template>
+
+<style>
+.greeting {
+  color: red;
+  font-weight: bold;
+}
+</style>
+
 ```
 
 ## **👨🏻‍💻 About Me**
