@@ -33,17 +33,16 @@ const whoAmI = reactive({
     "Watching Anime, Series and Films",
     "Eat in different places",
   ],
+  ambitions: [
+    "Travel Through Europe",
+    "Recognized Expert",
+    "Provide Comfort For My Family",
+  ]
 });
 
 getCurrentCity(() => {
   return Chapeco_Brazil;
 });
-
-ambitions(()=>{
-  travelThroughEurope()
-  recognizedExpert()
-  provideForMyFamily()
-})
 </script>
 
 <style scoped>
@@ -75,7 +74,7 @@ ambitions(()=>{
 
 </div>
 
-## **GitHub Statistics**
+## **👨‍💻 GitHub Statistics**
 
 <div style="display: inline_block">
  
