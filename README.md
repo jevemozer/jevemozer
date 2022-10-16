@@ -1,40 +1,58 @@
 ![](https://komarev.com/ghpvc/?username=jevemozer&color=006bed)
 
-### 👋 **Hello Devs, me chamo Jeverson!**
+### 👋 **Hi, I'm Jeverson!**
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-<script>
-export default {
-  data() {
-    return {
-      greeting: 'Hello World!'
-    }
-  }
-}
-</script>
-
 <template>
-  <p class="greeting">{{ greeting }}</p>
+  <HelloWorld msg="Welcome to my Vue.js App" />
+  <h1 class="greeting">Hi, i am {{ user }}</h1>
+  <p>💡 I am self-taught looking for a career transition.</p>
+  <p>💻 Currently working on Vue.js</p>
 </template>
 
-<style>
+<script>
+import HelloWorld from "@components/HelloWorld.vue";
+import { reactive } from "vue";
+
+const whoAmI = reactive({
+  pronouns: "He" | "His",
+  user: "Jeverson Mozer Silveira",
+  currentEdu: [
+    "Analysis and Systems Development - Unicesumar",
+    "Origamid",
+    "Vue School",
+    "Rocketseat",
+    "Dio",
+  ],
+  techComunities: "Orange Juice",
+  hobbies: [
+    "Studying",
+    "Bodybuilding",
+    "Watching Anime, Series and Films",
+    "Eat in different places",
+  ],
+});
+
+getCurrentCity(() => {
+  return Chapeco_Brazil;
+});
+
+ambitions(()=>{
+  travelThroughEurope()
+  recognizedExpert()
+  provideForMyFamily()
+})
+</script>
+
+<style scoped>
 .greeting {
   color: red;
   font-weight: bold;
 }
 </style>
-
 ```
-
-## **👨🏻‍💻 About Me**
-
-💡 Sou autodidata em busca de transição de carreira.</p>
-💻 Atualmente me aperfeiçoando em VueJS</p>
-🎓 Cursando Análise e desenvolvimento de Sistemas.</p>
-🌱 Dentre as áreas que mais me interessam, Engenharia de Software e Desenvolvedor WEB são as que se destacam.</p>
-✍️ Como hobbies, pratico musculação e gosto de rodar com minha moto.</p>
 
 ## **🛠 Tech Stack:**
 
@@ -47,7 +65,7 @@ export default {
 
 <img align="center" alt="Icon-vue" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 
-  <img align="center" alt="Icon-node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <!-- <img align="center" alt="Icon-node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> -->
 
   <img align="center" alt="Icon-sass" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 
