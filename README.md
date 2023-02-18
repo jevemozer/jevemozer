@@ -25,11 +25,11 @@ const whoAmI = reactive({
     "Rocketseat",
     "Dio",
   ],
-  techComunities: "Orange Juice",
+  techComunities: "SouJunior Lab",
   hobbies: [
     "Studying",
     "Bodybuilding",
-    "Watching Anime, Series and Films",
+    "Watching Series and Films",
     "Eat in different places",
   ],
   ambitions: [
